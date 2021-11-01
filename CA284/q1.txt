@@ -1,0 +1,11 @@
+Fisrt of all a pointer is a variable thats value is the address that points toward antother variable.
+Secondly, an array is a collection of data item and have to be all of the same type. for example: all must declared as characters or integers
+
+You may use pointers and memory blocks at run time because if you use array declared variables at complie time they are fixed and cannot be changed later on down the line.
+for example: if you put int array[4] = {1, 2, 3, 4};, these cannot be changed once the program is complied at compile time.
+
+You may use pointers and memory blocks when you want to input different values into the program at run time over and over again to make sure that, first it is working ok and secondly, to see what all the different outcomes are.
+for example: if you just want integers, you will want to make sure your error messages are working.
+
+You might use a pointer and memory blocks where you want to change the size of the memory quickly or want to change the value of a variable through a pointer without have to scroll through the code.
+for example: if int x = 6;, the do int *p;, p = &x;, *p = 4. This now means that anytime we try get x after doing this we will get the new value.

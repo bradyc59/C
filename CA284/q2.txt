@@ -1,0 +1,13 @@
+1. You will need to initialize the first string it will take in the char form and set them to take for example 100 charaters.
+2. You will need to set the length of the strings broken up into substrings after whitespaces.
+3. Once you have intilialized variable that can be used later on down the line in for loops you can start taking input from the user.
+4. With the first for loop you must look through the string as long as, lets say i is less than or equal to the length of the string.
+5. You will need an if statement here to see if there is a whitespace between the string, assign it to the new string that will be created.
+6. Then make sure you keep going through the for loop.
+7. With an else statement you can assign each substring sepearted by whitespace into the new string.
+8. You will then print out each string sepearted by a new line each time it loops through with a new for loop.
+
+It will take up to 100 characters.
+It returns the different substrings in the string that are sepearted by the whitspaces.
+You will need only two functions in this program, an int main() and an int split_string() or whatever you might want to call it.
+int main will have all the printing jobs to do and the int get_string will have to get all the substrings out of the string that are seprated by whitespaces.

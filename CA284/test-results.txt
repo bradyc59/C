@@ -1,0 +1,83 @@
+./full-code 1 10
+SELECTION SORT
+Took 0.000048 seconds to execute
+INSTERTION SORT
+Took 0.000093 seconds to execute
+PANCAKE SORT
+Took 0.000139 seconds to execute
+QUICK SORT
+Took 0.000187 seconds to execute
+MERGE SORT
+Took 0.000233 seconds to execute
+
+./full-code 1 100
+SELECTION SORT
+Took 0.000436 seconds to execute
+INSTERTION SORT
+Took 0.000865 seconds to execute
+PANCAKE SORT
+Took 0.001295 seconds to execute
+QUICK SORT
+Took 0.001743 seconds to execute
+MERGE SORT
+Took 0.002202 seconds to execute
+
+./full-code 1 1000
+SELECTION SORT
+Took 0.004340 seconds to execute
+INSTERTION SORT
+Took 0.008621 seconds to execute
+PANCAKE SORT
+Took 0.012923 seconds to execute
+QUICK SORT
+Took 0.017299 seconds to execute
+MERGE SORT
+Took 0.021764 seconds to execute
+
+./full-code 1 10000
+SELECTION SORT
+Took 0.043618 seconds to execute
+INSTERTION SORT
+Took 0.086865 seconds to execute
+PANCAKE SORT
+Took 0.129838 seconds to execute
+QUICK SORT
+Took 0.174397 seconds to execute
+MERGE SORT
+Took 0.218765 seconds to execute
+
+./full-code 1 100000
+SELECTION SORT
+Took 0.436280 seconds to execute
+INSTERTION SORT
+Took 0.877817 seconds to execute
+PANCAKE SORT
+Took 1.323671 seconds to execute
+QUICK SORT
+Took 1.768442 seconds to execute
+MERGE SORT
+Took 2.224262 seconds to execute
+
+./full-code 1 1000000
+SELECTION SORT
+Took 4.004076 seconds to execute
+INSTERTION SORT
+Took 8.409143 seconds to execute
+PANCAKE SORT
+Took 12.832049 seconds to execute
+QUICK SORT
+Took 17.089786 seconds to execute
+MERGE SORT
+Took 21.658072 seconds to execute
+
+./full-code 1 2000000
+SELECTION SORT
+Took 7.920664 seconds to execute
+INSTERTION SORT
+Took 16.094882 seconds to execute
+PANCAKE SORT
+Took 24.732638 seconds to execute
+QUICK SORT
+Took 33.254760 seconds to execute
+MERGE SORT
+Took 41.723542 seconds to execute
